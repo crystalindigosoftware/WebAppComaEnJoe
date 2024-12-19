@@ -20,7 +20,7 @@
             </div>
 
             <div class="col-md-8">
-                <label class="col-form-label">Ingrese el Id del chef a buscar </label>
+                <label class="col-form-label">Ingrese el id del chef a buscar</label>
                 <asp:TextBox ID="TBIdCheff" runat="server" CssClass="form-control-sm"></asp:TextBox>
                 <asp:Button ID="BtnConsultar" runat="server" Text="Consultar" CssClass="btn btn-primary mb-2" OnClick="BtnConsultar_Click" />
                 <input id="BtnInicio" type="button" value="Volver al inicio" class="btn btn-primary mb-2" onclick="javascript:ReturnToHome();" />

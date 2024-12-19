@@ -1,7 +1,16 @@
 {
   "Version": 1,
   "WorkspaceRootPath": "C:\\Users\\mgonz\\OneDrive\\Escritorio\\Educacion IT\\Modulo 5\\WebAppComaEnJoe\\",
-  "Documents": [],
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{41A04210-063B-442B-A0EB-99BCDFC74D90}|WebAppTemplate\\Presentacion.csproj|c:\\users\\mgonz\\onedrive\\escritorio\\educacion it\\modulo 5\\webappcomaenjoe\\webapptemplate\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{41A04210-063B-442B-A0EB-99BCDFC74D90}|WebAppTemplate\\Presentacion.csproj|solutionrelative:webapptemplate\\web.config||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{41A04210-063B-442B-A0EB-99BCDFC74D90}|WebAppTemplate\\Presentacion.csproj|C:\\Users\\mgonz\\OneDrive\\Escritorio\\Educacion IT\\Modulo 5\\WebAppComaEnJoe\\webapptemplate\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}",
+      "RelativeMoniker": "D:0:0:{41A04210-063B-442B-A0EB-99BCDFC74D90}|WebAppTemplate\\Presentacion.csproj|solutionrelative:webapptemplate\\default.aspx||{57312C73-6202-49E9-B1E1-40EA1A6DC1F6}"
+    }
+  ],
   "DocumentGroupContainers": [
     {
       "Orientation": 0,
@@ -9,7 +18,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": -1,
+          "SelectedChildIndex": 14,
           "Children": [
             {
               "$type": "Bookmark",
@@ -66,6 +75,31 @@
             {
               "$type": "Bookmark",
               "Name": "ST:135:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Web.config",
+              "DocumentMoniker": "C:\\Users\\mgonz\\OneDrive\\Escritorio\\Educacion IT\\Modulo 5\\WebAppComaEnJoe\\WebAppTemplate\\Web.config",
+              "RelativeDocumentMoniker": "WebAppTemplate\\Web.config",
+              "ToolTip": "C:\\Users\\mgonz\\OneDrive\\Escritorio\\Educacion IT\\Modulo 5\\WebAppComaEnJoe\\WebAppTemplate\\Web.config",
+              "RelativeToolTip": "WebAppTemplate\\Web.config",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAAAoAAAARAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000601|",
+              "WhenOpened": "2024-12-19T23:20:00.215Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Default.aspx",
+              "DocumentMoniker": "C:\\Users\\mgonz\\OneDrive\\Escritorio\\Educacion IT\\Modulo 5\\WebAppComaEnJoe\\WebAppTemplate\\Default.aspx",
+              "RelativeDocumentMoniker": "WebAppTemplate\\Default.aspx",
+              "ToolTip": "C:\\Users\\mgonz\\OneDrive\\Escritorio\\Educacion IT\\Modulo 5\\WebAppComaEnJoe\\WebAppTemplate\\Default.aspx",
+              "RelativeToolTip": "WebAppTemplate\\Default.aspx",
+              "LogicalView": "7651a703-06e5-11d1-8ebd-00a0c90f26ea",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000195|",
+              "WhenOpened": "2024-12-19T23:15:13.204Z"
             }
           ]
         }

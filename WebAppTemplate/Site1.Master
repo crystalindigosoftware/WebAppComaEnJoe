@@ -1,0 +1,43 @@
+﻿<%@ Master Language="C#" AutoEventWireup="true" CodeBehind="Site1.master.cs" Inherits="WebAppTemplate.Site1" %>
+
+<!DOCTYPE html>
+
+<html>
+<head runat="server">
+    <meta http-equiv="Content-Type" content="text/html; charset=utf-8" />
+    <meta charset="utf-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>CRUD en ASP.NET Framework 4.8 con EF 6.X</title>
+
+    <link href="Content/bootstrap.min.css" rel="stylesheet" />
+
+    <asp:ContentPlaceHolder ID="head" runat="server">
+    </asp:ContentPlaceHolder>
+</head>
+<body>
+    <form id="form1" runat="server">
+        <div class="container-fluid">
+            <div class="row">
+                <div class="col-md-12">
+                    <h3>Ejemplo de CRUD con ASP.NET Framework 4.8 usando Entity Framework 6.X </h3>
+                </div>
+            </div>
+        </div>
+
+        <div>
+            <asp:ContentPlaceHolder ID="ContentPlaceHolder1" runat="server">
+            </asp:ContentPlaceHolder>
+        </div>
+    </form>
+</body>
+<script>
+
+    function ReturnToHome() {
+        window.location = "Default.aspx";
+    }
+</script>
+<script src="Scripts/jquery-3.7.1.min.js"></script>
+<script src="Scripts/popper.min.js"></script>
+<script src="Scripts/bootstrap.min.js"></script>
+</html>
